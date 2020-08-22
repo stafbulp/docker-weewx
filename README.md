@@ -1,5 +1,7 @@
 # weewx for Docker
 
+Fork of Docker image from jgoerzen
+
 This Docker image provides support for [WeeWX](http://www.weewx.com/).
 Weewx is a simple, easy to use weather station.  It provides
 a seamless upgrade from wview as well, so this is an easily-used
